@@ -1,0 +1,6 @@
+osx_image: xcode11.6
+language: swift
+os: osx
+xcode_project: Numero.xcodeproj
+xcode_scheme: Numero
+xcode_destination: platform=iOS Simulator,OS=13.0,name=iPhone 11
